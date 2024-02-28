@@ -1,0 +1,18 @@
+{
+  "sign_in": "Sign In",
+  "phone_number": "Phone Number",
+  "agree_privacy_policy": "Agree and read the User Service ",
+  "agreement": "Agreement",
+  "and": "and",
+  "privacy_policy": "Privacy Policy",
+  "confirm": "Confirm",
+  "otp_sent": "We have sent OTP to",
+  "enter_mobile_number": "Enter Your Mobile Number",
+  "mobile_number_is_required": "Mobile number is required",
+  "enter_valid_mobile_number": "Please enter valid mobile number",
+  "or_sign_in_with": "or sign in with",
+  "google": "Google",
+  "facebook": "Facebook",
+  "retry": "Retry",
+  "continue": "Continue"
+}
